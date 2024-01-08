@@ -10,7 +10,9 @@ body, html {
 body {
   margin: 0;
   background: url(bg.jpg);
-  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   perspective: 800px;
   overflow: hidden;
 }
